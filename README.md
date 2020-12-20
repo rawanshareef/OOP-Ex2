@@ -74,7 +74,7 @@ return the number of all  edeges in the graph
 it return how much  changes was in the graph. 
 ......................................................................................................................................................................................................................................................
                                                                                         
- **WGraph_Algo:**
+**:zap: WGraph_Algo:**
 _The Graph Algo class contains all algorithms that can be run on a graph._
 
 _**the fanctions:**_
