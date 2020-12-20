@@ -106,6 +106,10 @@ _**the fanctions:**_
   - **CL_Agent:**
  - **CL_Pokemon:**
  - **MyFrame:**
+ This class represents a very simple GUI class to present a
+  game on a graph - you are welcome to use this class - yet keep in mind
+ that the code is not well written in order to force you improve the
+ code and not to take it "as is".
 
 
  
