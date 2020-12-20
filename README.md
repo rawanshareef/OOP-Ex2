@@ -167,6 +167,7 @@ _:books:_For more information to this project::point_down:
             ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CPT-Graphs-directed-weighted-ex1.svg/175px-CPT-Graphs-directed-weighted-ex1.svg.png)
 
 
+![](https://i.ytimg.com/vi/KrPKq4lk1NQ/maxresdefault.jpg)
   
  
  
