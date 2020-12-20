@@ -102,6 +102,7 @@ _**the fanctions:**_
 ### Pekemon game
 
  - **Arena:**
+  This class represents a multi Agents Arena which move on a graph - grabs Pokemons and avoid the Zombies.
   - **CL_Agent:**
  - **CL_Pokemon:**
  - **MyFrame:**
