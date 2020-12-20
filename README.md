@@ -5,7 +5,8 @@
 ![](https://assets.vg247.com/current/2017/07/pokemon_go_ash_hat_pikachu.jpg)
 
 **In this project we built a directed graph which is also a weighted graph:**
-_For more information to this project:_
+
+_For more information to this project:_:books:
 - **Weighted Directed Graph:**-
        
      1) https://www.softwaretestinghelp.com/java-graph-tutorial/
