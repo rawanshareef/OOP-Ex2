@@ -110,7 +110,11 @@ _**the fanctions:**_
   game on a graph - you are welcome to use this class - yet keep in mind
  that the code is not well written in order to force you improve the
  code and not to take it "as is".
-
+ - **SimpleGameClient:**
+ This class represents the simplest "Client-Game" main class
+  which uses the "server for moving the "Agents".
+  Note: this code is a very simple no algorithm no threaded mechanism - it is presented just to show the basic
+  use of the "server".
 
  
  
