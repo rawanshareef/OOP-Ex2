@@ -35,7 +35,7 @@ Each graph has the following properties:_
  - **mc:**
    count of the change
 
-_**the fanctions:**_
+:pushpin:_**the fanctions:**_
 
 - **WGraph_DS ():**
 creating a new graph
@@ -77,7 +77,7 @@ it return how much  changes was in the graph.
 **:zap: WGraph_Algo:**
 _The Graph Algo class contains all algorithms that can be run on a graph._
 
-_**the fanctions:**_
+:pushpin: _**the fanctions:**_
 
 - **init(directed_weighted_graph g):** Init the graph on which this set of algorithms operates on.
 
