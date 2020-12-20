@@ -1,8 +1,10 @@
+ ![](https://assets.vg247.com/current/2017/07/pokemon_go_ash_hat_pikachu.jpg)
+ 
  :round_pushpin: 
  _Part one_
 ----------------------------------------
 ### Directed (positive) Weighted Graph
-![](https://assets.vg247.com/current/2017/07/pokemon_go_ash_hat_pikachu.jpg)
+
 
 **In this project we built a directed graph which is also a weighted graph:**
 
@@ -132,7 +134,7 @@ _**the fanctions:**_
  
  
  
- 
+---------------------------------------------------------------------------------------------------- 
 _:books:_For more information to this project::point_down:
 - **Weighted Directed Graph:**-
        
