@@ -1,6 +1,6 @@
  ### _:fire:Welcome To Pokemon Game_:fire:
  
- ---------------------------------- ![](https://assets.vg247.com/current/2017/07/pokemon_go_ash_hat_pikachu.jpg)--------------
+ -------------------- ![](https://assets.vg247.com/current/2017/07/pokemon_go_ash_hat_pikachu.jpg)--------------
  
  
  :round_pushpin: 
