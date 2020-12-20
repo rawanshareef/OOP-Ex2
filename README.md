@@ -21,7 +21,7 @@
 
               getSrc(),getDest(),getWeight(),getInfo(),setInfo(String s),getTag(),setTag(int t)
               
-**WGraph_DS class:**
+**:zap:WGraph_DS class:**
 
 Each graph has the following properties:_
 **there is 3 HashMaps :**
