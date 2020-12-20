@@ -6,27 +6,6 @@
 
 **In this project we built a directed graph which is also a weighted graph:**
 
-_:books:_For more information to this project::point_down:
-- **Weighted Directed Graph:**-
-       
-     1) https://www.softwaretestinghelp.com/java-graph-tutorial/
-
-     2) https://wiki.c2.com/?WeightedDirectedGraph 
-     
-     3) https://youtu.be/XkeG0gYdytg
-
-     
-
-- **Gson:**- **https://en.wikipedia.org/wiki/Gson**
-- **Check the jeson online:**- **https://jsonformatter.curiousconcept.com/**
-- **HashMap:**- **https://www.youtube.com/watch?v=ceh8s-r53m0&ab_channel=JavaCodeGeeks**
-- **Check if a graph is strongly connected:**- **https://www.geeksforgeeks.org/connectivity-in-a-directed-graph/**
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CPT-Graphs-directed-weighted-ex2.svg/175px-CPT-Graphs-directed-weighted-ex2.svg.png) 
-            ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CPT-Graphs-directed-weighted-ex1.svg/175px-CPT-Graphs-directed-weighted-ex1.svg.png)
-
-
-  
 **Here are the departments that build the graph:**
 
 **Node:**_implements node_data and its contain:_
@@ -113,6 +92,7 @@ _**the fanctions:**_
  -------------------------------------------------------------------------------------------------------------------------
   -------------------------------------------------------------------------------------------------------------------------
  ### _:round_pushpin:  Part two_
+ ![](https://fount.in/wp-content/uploads/2016/10/pokemon-go-apk.png)
 
 ### Pekemon game
 
@@ -153,9 +133,29 @@ _**the fanctions:**_
  
  
  
+_:books:_For more information to this project::point_down:
+- **Weighted Directed Graph:**-
+       
+     1) https://www.softwaretestinghelp.com/java-graph-tutorial/
+
+     2) https://wiki.c2.com/?WeightedDirectedGraph 
+     
+     3) https://youtu.be/XkeG0gYdytg
+
+     
+
+- **Gson:**- **https://en.wikipedia.org/wiki/Gson**
+- **Check the jeson online:**- **https://jsonformatter.curiousconcept.com/**
+- **HashMap:**- **https://www.youtube.com/watch?v=ceh8s-r53m0&ab_channel=JavaCodeGeeks**
+- **Check if a graph is strongly connected:**- **https://www.geeksforgeeks.org/connectivity-in-a-directed-graph/**
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CPT-Graphs-directed-weighted-ex2.svg/175px-CPT-Graphs-directed-weighted-ex2.svg.png) 
+            ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CPT-Graphs-directed-weighted-ex1.svg/175px-CPT-Graphs-directed-weighted-ex1.svg.png)
+
+
+  
  
  
- ![](https://fount.in/wp-content/uploads/2016/10/pokemon-go-apk.png)
 
 
 
