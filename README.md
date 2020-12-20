@@ -6,7 +6,7 @@
 
 **In this project we built a directed graph which is also a weighted graph:**
 
-_For more information to this project:_:books:
+_:books:_For more information to this project::point_down:
 - **Weighted Directed Graph:**-
        
      1) https://www.softwaretestinghelp.com/java-graph-tutorial/
