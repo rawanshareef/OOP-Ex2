@@ -6,7 +6,7 @@
  :round_pushpin: 
  _Part one_
 ----------------------------------------
-### Directed (positive) Weighted Graph
+### :bomb: Directed (positive) Weighted Graph
 
 
 **In this project we built a directed graph which is also a weighted graph:**
